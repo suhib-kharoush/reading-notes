@@ -6,3 +6,6 @@ I'm a mechanical engineer
 [suhib-kharoush](https://github.com/suhib-kharoush/reading-notes.git/readme)
 
 [growth mind set] (https://suhib-kharoush.github.io/reading-notes/growthmindset)    
+[read01](https://suhib-kharoush.github.io/reading-notes/)
+[read03a](https://github.com/suhib-kharoush/reading-notes/blob/main/read03a.md)
+[read04](https://github.com/suhib-kharoush/reading-notes/blob/main/read04.md)
