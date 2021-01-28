@@ -1,0 +1,46 @@
+- A script: is a series of instructions that a computer can follow one - by one.
+- each individual instruction or step is known a statement.
+* these are some examples of statement:
+- var today= new Date{);
+- var hourNow = today.getHours{) ;
+- var greeting;
+- if (hourNow > 18) {
+- greeting= 'Good evening';
+- else if (hourNow > 12) {
+- greeting= 'Good afternoon';
+- else if (hourNow > O) {
+- greeting 'Good morning';
+- else {
+- greeting 'Welcome';
+- document.write(greeting) ; 
+- ### comments is important to explain what my code does.
+- ## jQuery:
+- jQuery offers a simple way to achieve a variety of common JavaScript tasks quickly and consistently, across all major browsers and without any feedback code needed.
+- Deifne JQuery: is a JavaScript file that you include in your web pages.
+- #### JQuery allows the programer to find elements using css-style selectors and yhen do something with the elements using JQuery methods.
+- # comparison operators:
+- you can evaluate a situation by comparing one value in the script to what you expect it might be. then the result will be boolean.
+- == means is equal to
+- != means isn't equal to
+- === means strict equal to
+- !== means strict not equal to
+- ##### some examples of comarison:
+- var scorel = 90;
+- var score2 = 95;
+- var highScorel 75;
+- var highScore2 = 95;
+- II Round 1 score
+- II Round 2 score
+- II Round 1 high score
+- II Round 2 high score
+- II Check if scores are higher than current high scores
+- var comparison= (score!+ score2) > (highScorel + highScore2);
+- II Write the message into the page
+- var el = document.getElementByid( 'answer');
+- el .textContent ='New high score:'+ comparison;
+- # loops:
+- loops check a condition. If it's true, a code block will run.
+- If the condition returns false, there are three common types of loops:
+- 1. FOR
+- 2. while
+- 3. Do while 
