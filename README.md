@@ -10,3 +10,4 @@ I'm a mechanical engineer
 - [read03a](https://github.com/suhib-kharoush/reading-notes/blob/main/read03a.md)
 - [read04](https://github.com/suhib-kharoush/reading-notes/blob/main/read04.md)
 - [read05](https://github.com/suhib-kharoush/reading-notes/blob/main/read05.md)
+- [read06](https://github.com/suhib-kharoush/reading-notes/blob/main/read06.md)
