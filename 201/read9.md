@@ -29,4 +29,22 @@ known as a marker).
 
 # events:
 
+- traditional DOM event handlers:
+- All modern browsers understand this way of creating an event handler,
+but we can only attach one function to each event handler. 
 
+
+- event object:
+- When an event occurs, the event object tells
+you information about the event, and the
+element it happened upon. 
+
+- event delegation:
+- Creating event listeners for a lot of elements
+can slow down a page, but event flow allows
+you to listen for an event on a parent element. 
+
+- the HTML elements we can interact with,such as links and formelements,can gain focus.
+
+- where the event occur?
+- the event object can tell us where the cursor was positioned when an event was triggered.
