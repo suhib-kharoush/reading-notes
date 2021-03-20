@@ -1,5 +1,5 @@
 # reading-notes
-## wha's the growthmind set?
+## what's the growthmind set?
 - A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points.
 1. Here’s a simple illustration highlighting the differences between a fixed and a growth mindset:
 ![fixed and growth mind](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
