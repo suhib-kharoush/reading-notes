@@ -57,12 +57,12 @@ I'm a mechanical engineer
 | Read15      |  [read 15](301/read15.md)  |
 
 
-## 401 content
+## 401 level talks about python
 | Name        | Link                       |
 | ----------- | -----------                |
-| Read01      | [read 01](401/read01.md)    |
+| Pain and Suffering, A beginner's guide to Big O Notation      | [read 01](401/read01.md)    |
 | Read02      | [read 02](401/read02.md)    |
-| Read03      | [read 03](401/read03.md)    |
+<!-- | Read03      | [read 03](401/read03.md)    |
 | Read04      | [read 04](401/read04.md)    |
 | Read05      | [read 05](401/read05.md)    |
 | Read06      | [read 06](401/read06.md)    |
@@ -104,4 +104,4 @@ I'm a mechanical engineer
 | Read42      | [read 42](401/read42.md)   |
 | Read43      | [read 43](401/read43.md)   |
 | Read44      | [read 44](401/read44.md)   |
-| Read45      | [read 45](401/read45.md)   |
+| Read45      | [read 45](401/read45.md)   | -->
