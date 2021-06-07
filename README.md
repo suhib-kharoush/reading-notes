@@ -62,8 +62,8 @@ I'm a mechanical engineer
 | ----------- | -----------                |
 | Pain and Suffering, A beginner's guide to Big O Notation      | [read 01](401/read01.md)    |
 | Recursion, TDD with python      | [read 02](401/read02.md)    |
-<!-- | Read03      | [read 03](401/read03.md)    |
-| Read04      | [read 04](401/read04.md)    |
+| Read03      | [read 03](401/read03.md)    |
+<!-- | Read04      | [read 04](401/read04.md)    |
 | Read05      | [read 05](401/read05.md)    |
 | Read06      | [read 06](401/read06.md)    |
 | Read07      | [read 07](401/read07.md)    |
