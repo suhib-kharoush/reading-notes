@@ -2,7 +2,7 @@ my name is suhib kharoush
 I'm 25 years old
 I'm a mechanical engineer
 
-102 content:
+# Code 102 - Intro to Software Development:
 - [suhib-kharoush](https://github.com/suhib-kharoush/reading-notes.git/readme)
 
 - [growth mind set] (https://suhib-kharoush.github.io/reading-notes/growthmindset)    
@@ -14,7 +14,7 @@ I'm a mechanical engineer
 
 
 
-## 201 content:
+# Code 201 - Foundations of Software Development:
 | Name        | Link                       |
 | ----------- | -----------                |
 | Read01      | [read 01](201/read1.md)    |
@@ -37,7 +37,7 @@ I'm a mechanical engineer
 
 
 
-## 301 content
+# Code 301 - Intermediate Software Development:
 | Name        | Link                       |
 | ----------- | -----------                |
 | Read01      | [read 01](301/read1.md)    |
@@ -57,15 +57,15 @@ I'm a mechanical engineer
 | Read15      |  [read 15](301/read15.md)  |
 
 
-## 401 level talks about python
+# Code 401 - Advanced Software Development:
 | Name        | Link                       |
 | ----------- | -----------                |
 | Pain and Suffering, A beginner's guide to Big O Notation      | [read 01](401/read01.md)    |
 | Recursion, TDD with python      | [read 02](401/read02.md)    |
 | Python Exceptions: An Introduction, Reading and Writing Files in Python      | [read 03](401/read03.md)    |
 | Classes and Objects, Thinking Recursively in Python       | [read 04](401/read04.md)    |
-<!-- | Read05      | [read 05](401/read05.md)    |
-| Read06      | [read 06](401/read06.md)    |
+| Read05      | [read 05](401/read05.md)    |
+<!-- | Read06      | [read 06](401/read06.md)    |
 | Read07      | [read 07](401/read07.md)    |
 | Read08      | [read 08](401/read08.md)    |
 | Read09      | [read 09](401/read09.md)    |
