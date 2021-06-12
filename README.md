@@ -65,8 +65,8 @@ I'm a mechanical engineer
 | Python Exceptions: An Introduction, Reading and Writing Files in Python      | [read 03](401/read03.md)    |
 | Classes and Objects, Thinking Recursively in Python       | [read 04](401/read04.md)    |
 |Linked Lists     | [read 05](401/read05.md)    |
-<!-- | Read06      | [read 06](401/read06.md)    |
-| Read07      | [read 07](401/read07.md)    |
+| Read06      | [read 06](401/read06.md)    |
+<!-- | Read07      | [read 07](401/read07.md)    |
 | Read08      | [read 08](401/read08.md)    |
 | Read09      | [read 09](401/read09.md)    |
 | Read10      | [read 10](401/read10.md)   |
