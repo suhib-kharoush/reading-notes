@@ -67,7 +67,7 @@ I'm a mechanical engineer
 |Linked Lists     | [read 05](401/read05.md)    |
 | Random module in python     | [read 06](401/read06.md)    |
 | Python Scope & the LEGB Rule      | [read 07](401/read07.md)  |  
-| Read08      | [read 08](401/read08.md)    |
+| List Comprehensions in Python      | [read 08](401/read08.md)    |
 <!-- | Read09      | [read 09](401/read09.md)    |
 | Read10      | [read 10](401/read10.md)   |
 | Read11      | [read 11](401/read11.md)   |
