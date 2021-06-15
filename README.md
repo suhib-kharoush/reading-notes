@@ -68,8 +68,8 @@ I'm a mechanical engineer
 | Random module in python     | [read 06](401/read06.md)    |
 | Python Scope & the LEGB Rule      | [read 07](401/read07.md)  |  
 | List Comprehensions in Python      | [read 08](401/read08.md)    |
-<!-- | Read09      | [read 09](401/read09.md)    |
-| Read10      | [read 10](401/read10.md)   |
+| Dunder Methods      | [read 09](401/read09.md)    |
+<!-- | Read10      | [read 10](401/read10.md)   |
 | Read11      | [read 11](401/read11.md)   |
 | Read12      | [read 12](401/read12.md)   |
 | Read13      | [read 13](401/read13.md)   |
@@ -84,7 +84,7 @@ I'm a mechanical engineer
 | Read22      | [read 22](401/read22.md)   |
 | Read23      | [read 23](401/read23.md)   |
 | Read24      | [read 24](4301/read24.md)  |
-| Read25      | [read 25](401/read25.md)   |
+| Read25      | [read 25](401/read25.md)   | -->
 | Read26      | [read 26](401/read26.md)   |
 | Read27      | [read 27](401/read27.md)   |
 | Read28      | [read 28](401/read28.md)   |
@@ -104,4 +104,4 @@ I'm a mechanical engineer
 | Read42      | [read 42](401/read42.md)   |
 | Read43      | [read 43](401/read43.md)   |
 | Read44      | [read 44](401/read44.md)   |
-| Read45      | [read 45](401/read45.md)   | -->
+| Read45      | [read 45](401/read45.md)   |
