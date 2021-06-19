@@ -70,8 +70,8 @@ I'm a mechanical engineer
 | List Comprehensions in Python      | [read 08](401/read08.md)    |
 | Dunder Methods      | [read 09](401/read09.md)    |
 | Stacks and Queues      | [read 10](401/read10.md)   |
-<!-- | Read11      | [read 11](401/read11.md)   |
-| Read12      | [read 12](401/read12.md)   |
+| JupyterLab & numpy array      | [read 11](401/read11.md)   |
+<!-- | Read12      | [read 12](401/read12.md)   |
 | Read13      | [read 13](401/read13.md)   |
 | Read14      | [read 14](401/read14.md)   |
 | Read15      | [read 15](401/read15.md)   |
