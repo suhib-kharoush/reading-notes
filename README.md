@@ -77,8 +77,8 @@ I'm a mechanical engineer
 | Trees      | [read 15](401/read15.md)   |
 | Data science      | [read 16](401/read16.md)   |
 | How to Web Scrape with Python      | [read 17](401/read17.md)   |
-<!-- | Read18      | [read18](401/read18.md)    |
-| Read19      | [read 19](401/read19.md)   |
+| Encryption, decryption, and cracking      | [read18](401/read18.md)    |
+<!-- | Read19      | [read 19](401/read19.md)   |
 | Read20      | [read 20](401/read20.md)   |
 | Read21      | [read 21](401/read21.md)   |
 | Read22      | [read 22](401/read22.md)   |
