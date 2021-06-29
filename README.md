@@ -78,8 +78,8 @@ I'm a mechanical engineer
 | Data science      | [read 16](401/read16.md)   |
 | How to Web Scrape with Python      | [read 17](401/read17.md)   |
 | Encryption, decryption, and cracking      | [read18](401/read18.md)    |
-<!-- | Read19      | [read 19](401/read19.md)   |
-| Read20      | [read 20](401/read20.md)   |
+| Python Regular Expression      | [read 19](401/read19.md)   |
+<!-- | Read20      | [read 20](401/read20.md)   |
 | Read21      | [read 21](401/read21.md)   |
 | Read22      | [read 22](401/read22.md)   |
 | Read23      | [read 23](401/read23.md)   |
