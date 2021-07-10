@@ -79,14 +79,8 @@ I'm a mechanical engineer
 | How to Web Scrape with Python      | [read 17](401/read17.md)   |
 | Encryption, decryption, and cracking      | [read18](401/read18.md)    |
 | Python Regular Expression      | [read 19](401/read19.md)   |
-<!-- | Read20      | [read 20](401/read20.md)   |
-| Read21      | [read 21](401/read21.md)   |
-| Read22      | [read 22](401/read22.md)   |
-| Read23      | [read 23](401/read23.md)   |
-| Read24      | [read 24](4301/read24.md)  |
-| Read25      | [read 25](401/read25.md)   |
- | Read26      | [read 26](401/read26.md)  |
-| Read27      | [read 27](401/read27.md)   |
+| Django      | [read 26](401/read26.md)  |
+<!-- | Read27      | [read 27](401/read27.md)   |
 | Read28      | [read 28](401/read28.md)   |
 | Read29      | [read 29](401/read29.md)   |
 | Read30      | [read 30](401/read30.md)   |
