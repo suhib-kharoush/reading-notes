@@ -80,8 +80,8 @@ I'm a mechanical engineer
 | Encryption, decryption, and cracking      | [read18](401/read18.md)    |
 | Python Regular Expression      | [read 19](401/read19.md)   |
 | Django      | [read 26](401/read26.md)  |
-<!-- | Read27      | [read 27](401/read27.md)   |
-| Read28      | [read 28](401/read28.md)   |
+| Django using models      | [read 27](401/read27.md)   |
+<!-- | Read28      | [read 28](401/read28.md)   |
 | Read29      | [read 29](401/read29.md)   |
 | Read30      | [read 30](401/read30.md)   |
 | Read31      | [read 31](401/read31.md)   |
