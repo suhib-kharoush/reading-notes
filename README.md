@@ -83,8 +83,8 @@ I'm a mechanical engineer
 | Django using models      | [read 27](401/read27.md)   |
 | Django: Working with forms      | [read 28](401/read28.md)   |
 | Django Best Practices      | [read 29](401/read29.md)   |
-<!-- | Read30      | [read 30](401/read30.md)   |
-| Read31      | [read 31](401/read31.md)   |
+| Hashtables      | [read 30](401/read30.md)   |
+<!-- | Read31      | [read 31](401/read31.md)   |
 | Read32      | [read 32](401/read32.md)   |
 | Read33      | [read 33](401/read33.md)   |
 | Read34      | [read 34](401/read34.md)   |
