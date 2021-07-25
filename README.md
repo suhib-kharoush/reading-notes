@@ -85,8 +85,8 @@ I'm a mechanical engineer
 | Django Best Practices      | [read 29](401/read29.md)   |
 | Hashtables      | [read 30](401/read30.md)   |
 | Library Website and API      | [read 31](401/read31.md)   |
-<!-- | Read32      | [read 32](401/read32.md)   |
-| Read33      | [read 33](401/read33.md)   |
+| Permissions      | [read 32](401/read32.md)   |
+<!-- | Read33      | [read 33](401/read33.md)   |
 | Read34      | [read 34](401/read34.md)   |
 | Read35      | [read 35](401/read35.md)   |
 | Read36      | [read 36](401/read36.md)   |
