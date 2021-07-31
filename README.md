@@ -88,9 +88,9 @@ I'm a mechanical engineer
 | Permissions      | [read 32](401/read32.md)   |
 | A Production Stack      | [read 33](401/read33.md)   |
 | Configuring Django Settings      | [read 34](401/read34.md)   |
-<!-- | Read35      | [read 35](401/read35.md)   |
-| Read36      | [read 36](401/read36.md)   |
-| Read37      | [read 37](401/read37.md)   |
+| Read36_a      | [read 35](401/read35.md)   |
+| Read36_b      | [read 36](401/read36.md)   |
+<!-- | Read37      | [read 37](401/read37.md)   |
 | Read38      | [read 38](401/read38.md)   |
 | Read39      | [read 39](401/read39.md)   |
 | Read40      | [read 40](401/read40.md)   |
