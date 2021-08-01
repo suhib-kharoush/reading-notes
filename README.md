@@ -90,8 +90,8 @@ I'm a mechanical engineer
 | Configuring Django Settings      | [read 34](401/read34.md)   |
 | Read36a      | [read36a](401/read36a.md)   |
 | Read36b      | [read36b](401/read36b.md)   |
-<!-- | Read37      | [read 37](401/read37.md)   |
-| Read38      | [read 38](401/read38.md)   |
+| JavaScript      | [read 37](401/read37.md)   |
+<!-- | Read38      | [read 38](401/read38.md)   |
 | Read39      | [read 39](401/read39.md)   |
 | Read40      | [read 40](401/read40.md)   |
 | Read41      | [read 41](401/read41.md)   |
