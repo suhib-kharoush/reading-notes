@@ -94,8 +94,8 @@ I'm a mechanical engineer
 | React      | [read 38](401/read38.md)   |
 | Assets, Metadata, and CSS      | [read 39](401/read39.md)   |
 | Dynamic Routes      | [read 40](401/read40.md)   |
-<!-- | Read41      | [read 41](401/read41.md)   |
-| Read42      | [read 42](401/read42.md)   |
-| Read43      | [read 43](401/read43.md)   |
+|  Pythonisms      | [read 41](401/read41.md)   |
+| ACM Code of Ethics      | [read 42](401/read42.md)   |
+<!-- | Read43      | [read 43](401/read43.md)   |
 | Read44      | [read 44](401/read44.md)   |
 | Read45      | [read 45](401/read45.md)   | -->
